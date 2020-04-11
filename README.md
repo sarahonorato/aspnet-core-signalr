@@ -1,5 +1,13 @@
 # ASP.NET Core SignalR
 This project was created to apply the basics of building a real-time app using SignalR.
+ASP.NET Core SignalR is an open-source library that simplifies adding real-time web functionality to apps. Real-time web functionality enables server-side code to push content to clients instantly.
+
+Good candidates for SignalR:
+
+- Apps that require high frequency updates from the server. Examples are gaming, social networks, voting, auction, maps, and GPS apps.
+- Dashboards and monitoring apps. Examples include company dashboards, instant sales updates, or travel alerts.
+- Collaborative apps. Whiteboard apps and team meeting software are examples of collaborative apps.
+- Apps that require notifications. Social networks, email, chat, games, travel alerts, and many other apps use notifications.
 
 # Prerequisites
 - Visual Studio 2019
